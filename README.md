@@ -1,4 +1,4 @@
-# Contact-List-CRUD
+# Contact-List-SSR-aplication
 
 Full Application CRUD, done with MVC architecture.
 
